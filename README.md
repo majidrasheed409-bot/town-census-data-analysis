@@ -121,7 +121,7 @@ This type of analysis can support:
 ---
 
 ## Author
-
+Majid Rasheed
 MSc Artificial Intelligence & Data Science
 University of Hull
 
